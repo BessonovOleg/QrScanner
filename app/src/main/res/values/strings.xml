@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QrScanner</string>
+    <string name="lb_ip_address">IP адрес сервера</string>
+    <string name="lb_port">Порт</string>
+    <string name="lb_db_name">Имя базы данных</string>
+    <string name="lb_login">Логин</string>
+    <string name="lb_password">Пароль</string>
+    <string name="btn_Caption_setting">Настройки</string>
+    <string name="btn_Scan_caption">Сканировать</string>
+    <string name="lb_doc_date">Дата</string>
+    <string name="lb_doc_no">№</string>
+    <string name="lb_doc_name">Документ</string>
+    <string name="lb_doc_sum">Сумма</string>
+    <string name="lb_doc_agent">Клиент</string>
+    <string name="lb_doc_done">Состояние проведения</string>
+    <string name="lb_doc_memo">Примечание</string>
+    <string name="lb_doc_checkstate">Состояние проверки</string>
+</resources>
