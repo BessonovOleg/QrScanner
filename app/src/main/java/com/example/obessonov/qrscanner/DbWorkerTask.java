@@ -15,9 +15,9 @@ import java.sql.Statement;
 
 public class DbWorkerTask extends AsyncTask <String,Void,String>{
 
-    final static String MSSQL_DB = "jdbc:jtds:sqlserver://192.168.6.2:1433:/v2_kramatorsk_new;";
+    final static String MSSQL_DB = "jdbc:jtds:sqlserver://192.168.6.2:1433:/dbname;";
     final static String MSSQL_LOGIN = "admin";
-    final static String MSSQL_PASS= "databaseowner";
+    final static String MSSQL_PASS= "admin";
 
     @Override
     protected String doInBackground(String... params) {
